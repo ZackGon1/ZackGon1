@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     /* font-family: 'Kumbh Sans', sans-serif; */
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
     scroll-behavior: smooth;
   }
   input:not(.dd){
